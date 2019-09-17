@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">生日快乐~</string>
+    <string name="me">我</string>
+    <string name="name">亲爱的简同学：</string>
+    <string name="sender">明明 2019.12.09</string>
+    <string name="wish">我的祝福</string>
+    <string name="mywish">生日快乐！新的一岁要开心！</string>
+    <string name="ok">收到</string>
+    <string name="wishyou">祝:</string>
+    <string name="haha">嘻嘻</string>
+</resources>
